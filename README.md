@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Arif
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 
 Skills: JS / HTML / CSS
