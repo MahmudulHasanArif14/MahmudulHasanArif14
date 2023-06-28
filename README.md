@@ -2,9 +2,9 @@
 
 
 
-Skills: JS / HTML / CSS
+Skills: JS / HTML / CSS / PHP / C
 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning C++ 
 - 📫 How to reach me: www.facebook.com/mahmudulhasanarif.14 
 
 
