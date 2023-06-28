@@ -22,5 +22,6 @@ Skills: JS / HTML / CSS / PHP / C
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MahmudulHasanArif14)  
 
-![Profile views](https://gpvc.arturio.dev/MahmudulHasanArif14)  
+![Profile views](https://gpvc.arturio.dev/[MahmudulHasanArif14](https://github.com/MahmudulHasanArif14)https://github.com/MahmudulHasanArif14)  
 -->
+
