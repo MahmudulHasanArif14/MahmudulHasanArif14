@@ -8,6 +8,8 @@
 
 <img src="assets/id-dashboard.svg?v=1" alt="Lanyard ID card and GitHub stats: 73 public repositories, 9 followers, on GitHub since 2020, verified 18 Oct 2026" width="100%">
 
+<img src="assets/github-stats.svg?v=1" alt="GitHub stats: 73 public repositories, 9 followers, 565 contributions in the last 12 months, 14-day current streak, top languages by repository count" width="100%">
+
 <img src="assets/connect.svg?v=1" alt="Connect: GitHub and Instagram" width="100%">
 
 </div>
